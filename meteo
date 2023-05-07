@@ -1,0 +1,5 @@
+1.	Activer le ssh 
+2.	Tester avec filezila (https://phoenixnap.com/kb/raspberry-pi-ftp-server)
+3.	Lancer le script. L’erreur « SyntaxError: invalid non-printable character U+00A0 » signifie qu’il y a des espaces vides à supprimer (supprimer et remettre les espaces bogués) (https://stackoverflow.com/questions/74837978/syntaxerror-invalid-non-printable-character-u00a0-in-python) 
+4.	Analyser la trame (se référer à la doc PDF fournie)
+5.	Modifier le script Python en conséquence.
